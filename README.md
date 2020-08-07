@@ -4,9 +4,8 @@
 
 <p align="center">
 
-[![GitHub tag][tag-badge]][tag]
-[![GitHub stars][stars-badge]][stars]
-[![Code of Conduct][coc-badge]][coc]
+[![GitHub issues](https://img.shields.io/github/issues/amati/gatsby-starter-amati?logo=appveyor)](https://github.com/amati/gatsby-starter-amati/issues)
+[![GitHub license](https://img.shields.io/github/license/amati/gatsby-starter-amati)](https://github.com/amati/gatsby-starter-amati/blob/master/LICENSE)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/amati/gatsby-starter-amati)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/96b2269e-7209-4f08-aad0-86293f10324c/deploy-status)](https://app.netlify.com/sites/gatsby-starter-amati/deploys)
 
