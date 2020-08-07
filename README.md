@@ -1,25 +1,26 @@
 <h1 align="center">
   gatsby-starter-amati
 </h1>
+
 <p align="center">
+
 [![GitHub tag][tag-badge]][tag]
 [![GitHub stars][stars-badge]][stars]
 [![Code of Conduct][coc-badge]][coc]
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/amati/gatsby-starter-amati)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/96b2269e-7209-4f08-aad0-86293f10324c/deploy-status)](https://app.netlify.com/sites/gatsby-starter-amati/deploys)
+
 </p>
 
-Kick off your project with this default boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
+## 🎁 Description
 
-_Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
-
-## 🎊 Description
-
-This is a static blog generator by (Gatsby.js)[https://www.gatsbyjs.org/].
+This is a static blog generator by [Gatsby.js](https://www.gatsbyjs.org/).
 
 ## 📂 Features
 
 - eslint
 - prettier
+- IBM Plex Sans KR
 
 ## 🚀 Quick start
 
@@ -104,5 +105,3 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/amati/gatsby-starter-amati)
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/amati/gatsby-starter-amati)
-
-<!-- AUTO-GENERATED-CONTENT:END -->
